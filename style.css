@@ -63,7 +63,7 @@ body {
   margin-left: 30px;
 }
 .sws {
-  background-image: url("bg.jpg");
+  background-image: url("bg.pg");
   background-size: cover;
 }
 .display-4 {
@@ -101,9 +101,9 @@ iframe {
   width: 100;
   height: 100;
 }
-.vf {
+/* .vf {
   background-color: #d5c3c391;
-}
+} */
 .vfs {
   /* background-image: url("roof.jpg"); */
   background-image: linear-gradient(
@@ -150,6 +150,62 @@ hr.ye {
   line-height: 1.5;
   font-weight: 400;
 }
-.vvv {
-  background-image: url(1920x1080.jpg);
+.vvvf {
+  /* background-image: url(1920x1080.jpg); */
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.9),
+      rgba(255, 255, 255, 0.99)
+    ),
+    url("1920x1080.jpg");
+}
+.bef li::marker {
+  font-size: 2rem;
+  font-weight: bolder;
+  color: red;
+}
+.ram {
+  font-size: 60px;
+  font-weight: 700;
+}
+.das {
+  font-size: 1.9rem;
+}
+.asa {
+  font-weight: 700;
+  margin-top: 23%;
+  line-height: 1.3;
+}
+.tdt {
+  border-top-color: #ffffff;
+  border-top-width: 2px;
+}
+.nbnb {
+  font-weight: 700;
+}
+.aqaqa {
+  text-decoration: none;
+}
+.ggg {
+  float: right;
+}
+.zpp {
+  list-style: none;
+  line-height: 2.5;
+}
+.xsxs {
+  text-decoration: none;
+  color: white;
+}
+.mtt {
+  margin-top: 75%;
+  color: red;
+  text-align: center;
+}
+.vfvd {
+  margin-top: 30%;
+  color: red;
+  line-height: 2;
+}
+.fa-brands {
+  font-size: 2em;
 }
